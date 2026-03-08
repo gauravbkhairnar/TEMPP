@@ -57,6 +57,8 @@ For the SVG method
 ## Note
 The icons have been created and tested in QGIS 3.10 (the current LTR) but should work in earlier versions of QGIS too.
 
+
 ## Further guidance
 * [QGIS - The Style Manager Help](https://docs.qgis.org/3.10/en/docs/user_manual/style_library/style_manager.html).
+
 
