@@ -59,6 +59,8 @@ The icons have been created and tested in QGIS 3.10 (the current LTR) but should
 
 
 ## Further guidance
+For other styles kindly refere thsi link:
 * [QGIS - The Style Manager Help](https://docs.qgis.org/3.10/en/docs/user_manual/style_library/style_manager.html).
+
 
 
